@@ -1,0 +1,292 @@
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 100%;
+}
+tr{
+    height: 50px;
+}
+td {
+    width: 16.7%;
+    height: 2em;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+#wheat:hover {
+    background-image: url("https://imgs.search.brave.com/nCtoq-qc-bdDJI41ibWRlbq57sqors-kveX6Kny1F7Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9i/L2JjL0FfZmllbGRf/b2Zfd2hlYXQuSlBH");
+    background-size:cover;
+    transition: 800ms;
+    transform : scale(1.1);
+    color: #fff;
+}
+#Rice:hover {
+    background-image: url("https://imgs.search.brave.com/PN8WHgc0QfJHT2luE2D1JewM-iX1yet7qzZK4uIWMpA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9y/aWNlLXBsYW50YXRp/b25zLWZpZWxkXzE4/MTYyNC00NjkzNC5q/cGc_c2l6ZT02MjYm/ZXh0PWpwZw");
+    background-size:cover;
+     color: #fff;
+    transition: 800ms;
+    transform:scale(1.1);
+}
+#Cotton:hover {
+    background-image: url("https://imgs.search.brave.com/4-8sLvNu5hIw7k0GqvVfe0VBFTHIUhRuuiGix7amt6s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNC8w/Mi8xMy8xMi81Ni9j/b3R0b24tY3JvcC0y/NjUzMTJfMTI4MC5q/cGc");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Jute:hover {
+    background-image: url("https://imgs.search.brave.com/dt9el7sJ6nLk8DJ0YNPdVDwnnOUs7S_nmkGPD8p9tFU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvOTEw/MjE5MjA0L3Bob3Rv/L2NvdHRvbi1pbi1v/bGQtZmFzaGlvbmVk/LWp1dGUtd3JhcC5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/U2pTYlpkaFFfRWll/aEFhODFHSVpBR2pM/ckFaZlViSjRnMnpL/ZUdZaXhCND0");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Sugarcane:hover {
+    background-image: url("https://imgs.search.brave.com/QG2OBjbXD_C5CW4VFWFBpXHdULro1QltEsajtuzha3g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI5L0N1dF9zdWdh/cmNhbmUuanBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Ragi:hover {
+    background-image: url("https://imgs.search.brave.com/mL-PhgZk2SKBRuYpHPTZjwgTfLFBipqTiiRHVKGKmxc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAzLzY0LzczLzA0/LzM2MF9GXzM2NDcz/MDQyMV9kZ05SR3lJ/ME1uNklTMEFqMHZw/SDdYMklQSW5ZQlhO/Zi5qcGc");
+    background-size:cover;
+transition: 800ms;
+transform:scale(1.1); color: #fff;}
+#Oilseeds:hover {
+    background-image: url("https://imgs.search.brave.com/yRn6Bdh8JHUpC2ciV2QAuiPvQj8u0QLts09bJ09x1gA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9mai1j/b3JwLXB1Yi5zMy51/cy1lYXN0LTIuYW1h/em9uYXdzLmNvbS9z/M2ZzLXB1YmxpYy9z/dHlsZXMvMzQ1eDIz/OC9wdWJsaWMvMjAy/My0wNi9BZGFtJTIw/Q2hhcHBlbGwlMjBm/aWVsZC5qcGc");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+
+
+
+#Spices:hover {
+    background-image: url("https://imgs.search.brave.com/DJjwc_0W1zHdZSfwJ8hUehtVCzTFS9rxP8fLOgGOrQE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YWdwcm91ZC5jb20v/ZXh0L3Jlc291cmNl/cy8yMDIyLzA4LzI1/LzU1ODMyLWhpbmVz/LWNvdmVyLWNyb3At/MS5qcGc_dD0xNjY1/MjAxMzM4JndpZHRo/PTEwODA");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+
+#Pulses:hover {
+    background-image: url("https://imgs.search.brave.com/7zDchK4jR6mSPE2MhzWY11w7ugiABcTMwXb4pGd-U3E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly92bHNj/aS5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDcvYWJo/aXNoZWstaGFqYXJl/LUlSUTEzSlZzOF9j/LXVuc3BsYXNoLTMw/MHgzMDAuanBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Maize:hover {
+    background-image: url("https://imgs.search.brave.com/9KC6oOwbZyhAAjA_JXSVVpJ64WQUPtCfwIfMvERqJXE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNC8w/Mi8yMy8xMy8wOC9t/YWl6ZS0yNzI4ODZf/MTI4MC5qcGc");
+    background-size:contain;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+
+#Millets:hover {
+    background-image: url("https://imgs.search.brave.com/tY-ZaiWfw1pzb3BfwIqw3ExgP5hHSnnxQy4uH6csftA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMueW91cnN0b3J5/LmNvbS9jcy93b3Jk/cHJlc3MvMjAxNy8w/NC9taWxsZXRzLmpw/Zz93PTExNTImZm09/YXV0byZhcj0yOjEm/bW9kZT1jcm9wJmNy/b3A9ZmFjZXM");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Jowar:hover {
+    background-image: url("https://imgs.search.brave.com/c078jMaQXon7CtAvcnLXTnrCNOefxoRmonEueVulD8E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9qb3dh/ci1jcm9wLWltYWdl/LWNhcHR1cmVkLWZh/cm0tNjYzMDA3OTIu/anBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+
+#Cardamom:hover {
+    background-image: url("https://imgs.search.brave.com/61hsboH-3An4sxd2HmcedSwOtP-t26DcZsih7tD5eIM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbmRp/YWFncm9uZXQuY29t/L2luZGlhYWdyb25l/dC9jcm9wJTIwaW5m/by9pbWFnZXMvY2Fy/ZGFtb20uanBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Nutmeg:hover {
+    background-image: url("https://imgs.search.brave.com/A9ooWFb1ddHRiQQegWzyBXadv-coRcskNYGD0N_BoBI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2EzL051dG1lZ19v/bl9UcmVlLmpwZw");
+    background-size:contain;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Garlic:hover {
+    background-image: url("https://imgs.search.brave.com/erb_jdoDvTITX88TMRTxFIgf_3QW84EbALl0kKlgtPc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE1/NDAxNDg0MjY5NDUt/NmNmMjJhNmIyMzgz/P2l4bGliPXJiLTQu/MC4zJml4aWQ9TTN3/eE1qQTNmREI4TUh4/elpXRnlZMmg4Tlh4/OFoyRnliR2xqZkdW/dWZEQjhmREI4Zkh3/dyZ3PTEwMDAmcT04/MA.jpeg");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Tumeric:hover {
+    background-image: url("https://imgs.search.brave.com/zu8s35aCsfaqDzrsYDTHOaw2Rr4ODVgjOGygBYJACGw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by90/dXJtZXJpYy1wb3dk/ZXJfMTMyMy00MDAu/anBnP3NpemU9NjI2/JmV4dD1qcGc");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1);color: #fff;
+}
+#Ginger:hover {
+    background-image: url("https://imgs.search.brave.com/GHlSnPBIUJkmdwsTxf0JSpk000a_ihoWYTBTsaNEaMM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9i/aXR0ZXJzd2VldC1n/aW5nZXJfMTQ0NjI3/LTEyMDQ0LmpwZz9z/aXplPTYyNiZleHQ9/anBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+
+#Lemons:hover {
+    background-image: url("https://imgs.search.brave.com/ENamtW3jAXrlOeKPINiXOeNnJqaNwpQHH0OWtUysWzY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/YmhnLmNvbS90aG1i/L0NKbEVFTXcxMUxn/ZmQ2dzVEUkVjMjJ1/RF9Vbz0vMjgyeDE4/OC9maWx0ZXJzOm5v/X3Vwc2NhbGUoKTpz/dHJpcF9pY2MoKS9I/b3ctdG8tR3Jvdy1h/LUxlbW9uLVRyZWUt/ZnJvbS1TZWVkLUVw/TWZaLWUtS2FkQTZw/c0JXN01lMGUtNzQ0/NGJkMTY5N2IzNDE4/NTk1YWIxZGY2YzNk/Y2I0OGYuanBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Potatoes:hover {
+    background-image: url("https://imgs.search.brave.com/ycgzZqqf78nLdnrbb5zbBn0l_kbZxuobw4k2hX2Tt9U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTU3/NzM1MTIwL3Bob3Rv/L3BvdGF0by1wbGFu/dC5qcGc_cz02MTJ4/NjEyJnc9MCZrPTIw/JmM9cWc0c3V0NTdG/TnJ1SndxQjh5NF9G/V2RWdms2YTk0R0Rz/azZhUk5lZE5SUT0");
+    background-size:contain;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Onions:hover {
+    background-image: url("https://imgs.search.brave.com/6VmLJq7fFg7CfF-5f0de0M53cK4UzNmxqxVw-l61vgs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oZ3R2/aG9tZS5zbmRpbWcu/Y29tL2NvbnRlbnQv/ZGFtL2ltYWdlcy9o/Z3R2L2Z1bGxzZXQv/MjAyMC8zLzAvT3Jp/Z2luYWxfSnVsaWUt/TWFydGVucy1Gb3Ju/ZXlfT25pb24tc2Vl/ZGxpbmdzLkpQRy5y/ZW5kLmhndHZjb20u/NjE2LjQ2Mi5zdWZm/aXgvMTU4MzE2NTg0/NTMwNi5qcGVn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+
+}
+#Radish:hover {
+    background-image: url("https://imgs.search.brave.com/iZo3oE7u46Nh7TGMUJgtdLxl8arQjwOyPfXttFYODeg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dXJiYW5nYXJkZW5n/YWwuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA4L3Jh/ZGlzaC1wbGFudHMu/anBn");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Tea:hover {
+    background-image: url("https://imgs.search.brave.com/SNVGSvX4M2uhFzOzXwdf6_-dPJYT_CFZu4-CK_2M2UY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTg5/NDYwMTY0L3Bob3Rv/L2dyb3dpbmctdGVh/LWxlYWZzLWluLXRl/YS1mYXJtLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1WSXJE/T01yVUFNR2N5VXRD/WGlUQU82TG5mMUp2/YzVXMVRjSVhxZG1z/YXJBPQ");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Coffee:hover {
+    background-image: url("https://imgs.search.brave.com/K9bkNK1KUe0-az6XQw2Zdfjjfh82hRc0cYBQ0YGDfGw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMy/NjA4NTYzMi9waG90/by9jb2ZmZWUtc2Vl/ZC1mcnVpdC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9eVow/cm5tZl93VzdGZGl2/cW83dndFdkpXUWRS/Ym11M3dCRlJBbEE5/T2YtND0");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Tomatos:hover {
+    background-image: url("https://imgs.search.brave.com/n5BVbZvP0ZKxo4_TkcioyqORz3o3MGINojlL4W_MphU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ib25u/aWVwbGFudHMuY29t/L2Nkbi9zaG9wL2Fy/dGljbGVzL0JPTk5J/RV90b21hdG9lc19p/U3RvY2stNDgxMzQ5/MTI4LTE4MDBweF85/ZjhmNTM5MC1hNDE4/LTRkOTEtYTNkMC0w/MGFlMGI3OTAwY2Iu/anBnP3Y9MTY0MjU0/MTk4MCZ3aWR0aD0x/MDAw");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+#Coriander:hover {
+    background-image: url("https://imgs.search.brave.com/6KRTivjLxsXNcffns7ykY5ljO90W3_0LRswksy7UA-Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMy/MjQ5OTA4MC9waG90/by9jb3JpYW5kZXIt/Y2lsYW50cm8uanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVcz/U1NnRWVmR1E5U3ZW/MlpoWXlvdjVvQTgx/ZTlZMGRHNWxVMm9k/N3JQNGc9");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.Sandy:hover {background-image: url("https://imgs.search.brave.com/WQRFNTZv_WF2fvOelN5XS0FWOvUiqcd7pA_BQiMUk7E/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Ym91Z2h0b24uY28u/dWsvd3AtY29udGVu/dC91cGxvYWRzL3Np/dGVzLzE0LzIwMTkv/MDcvU2FuZHktU29p/bC0xLmpwZw");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.Loamy:hover {
+    background-image: url("https://imgs.search.brave.com/1N_rZ1fpgZt03DekA9ypOxl8LX92kb34yiIHg19w6rw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jb250/cmFjdG9ycXVvdGVz/LnVzL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE4LzA4L2xvYW0t/c29pbC5qcGc");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.BlackSoil:hover {
+    background-image: url('https://imgs.search.brave.com/CkC8zY1OVjaSFWiZoaY2AI-StExMOUM6Ucr2AvozTig/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTg0/ODg1ODkwL3Bob3Rv/L2JsYWNrLXNvaWwu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PURZX3BfZm03YTl6/bVJHUlJKVHNGdFhG/T2p5S3RIUmdyRU0y/OGlfdExEcjQ9');
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.BlackCotton:hover {
+    background-image: url("https://imgs.search.brave.com/JM65nc2Tv83VFI6E00PYJb2TVN999EvLKTFn6kNzFwY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9ob3Vz/aW5nLmNvbS9uZXdz/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzAzL0JsYWNrLWNv/dHRvbi1zb2lsLVBy/b3BlcnRpZXMtdHlw/ZXMtZm9ybWF0aW9u/LWFuZC1iZW5lZml0/cy0wMS5qcGc");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.Lateritic:hover {
+    background-image: url("https://imgs.search.brave.com/VPO_gMdTrhSu2qVt55XBnL0FqXUCvkqgm3a9uYrebO0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5h/ZGRhMjQ3LmNvbS9o/dHRwOi8vbGgzLmdv/b2dsZXVzZXJjb250/ZW50LmNvbS8tc3JT/Ymo5QWppdU0vVUNL/c1I5aVhyT0kvQUFB/QUFBQUFJc0EvN2pa/aHdWYTc0ZWsvczcy/MC8wMDA2OSUyNTIw/SU1HXzAzMTYlMjUy/MGxhdGVyaXRlLmpw/Zw");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.Alluvial:hover {
+    background-image: url("https://imgs.search.brave.com/FMk06tSHRIs5sFF_wBx29DDw8FQb-35F7Jacv9ocQL0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy84/LzhkL0FsbHV2aWFs/UGxhaW4uSlBH");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.HeavySoil:hover {
+    background-image: url("https://imgs.search.brave.com/kRdmMpkguYsfVN2XqBoLQ5rDZVPHUSVBqRD-tN6kLKg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90b2Rh/eS5vcmVnb25zdGF0/ZS5lZHUvc2l0ZXMv/dG9kYXkub3JlZ29u/c3RhdGUuZWR1L2Zp/bGVzL3N0eWxlcy8x/MjAweDU2NC9wdWJs/aWMvMzYyMjk2MDU4/MjVfMTE5MTA1MmUw/NF9jXzMuanBnP2l0/b2s9TVNJQS1WdHc");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+
+.Drip:hover {
+    background-image: url("https://imgs.search.brave.com/0wf-VFIocZKwkORz_G4E5VjTMyaHclxrtimnnIE1X3E/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvODQ0/NTQ4MDM2L3Bob3Rv/L2RyaXAtaXJyaWdh/dGlvbi1zeXN0ZW0u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PW10b1A3bnhpUFJn/N3l2MXdjSGVSR0xJ/ZjVwWkFOTE1pUFNx/SGFwR2o0bWs9");
+    background-size:contain;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.Side:hover {
+    background-image: url("https://imgs.search.brave.com/y9ouTaQgUzKE0qtehhWm7lE0VT8UNG43Cp0Ng-bQXJk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9leHRl/bnNpb24ubWlzc291/cmkuZWR1L21lZGlh/L3d5c2l3eWcvRXh0/ZW5zaW9uZGF0YS9B/cnRpY2xlcy9JbWFn/ZXMvQWcvU2lkZUlu/bGV0YXJ0aWNsZS5q/cGc");
+    background-size:contain;
+    transition: 800ms;
+    transform:scale(1.1); color: #fff;
+}
+.Furrow:hover {
+    background-image: url("https://imgs.search.brave.com/nZ_82g6aAi54KocLDA71qWh4Y0eE24mnoY7Nj9ciDjA/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2VvLmZ1LWJlcmxp/bi5kZS9lbi92L2l3/cm0vSW1wbGVtZW50/YXRpb24vdGVjaG5p/Y2FsX21lYXN1cmVz/L2JpbGRlci9CaWxk/ZXItaXJyaWdhdGlv/bi9GdXJyb3ctaXJy/aWdhdGlvbi5qcGc_/d2lkdGg9NTAw");
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1);; color: #fff;
+}
+.Sprinkler:hover{
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1);
+    background-image:url("https://imgs.search.brave.com/gCvlowXvp83DSIUY2WYk8MQ9vHPruAlBmXKD2p_CXMc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/OTQ3MTY4L3Bob3Rv/L2dhcmRlbi1zcHJp/bmtsZXIuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPWpIT0JI/WlJULU9CY21pYmpT/LURTY0NQcHFiNWxN/ZGFwT1hwUzJCdGot/Mzg9"); color: #fff;
+}
+
+.Kothari:hover{
+    background-image: url("https://imgs.search.brave.com/F24GTClO2eq4ihobDlsbTPFPaIsw2JV74po5hgoC2B0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDU0/MzI2OTI3L3Bob3Rv/L2lycmlnYXRpb24u/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PWZfZGFKcHlrVGV1/T3RsMnZNR3pwcW9z/TXVWQUNKQTdpWWdX/S0hfUXcxM0E9"); color: #fff;
+    background-size: contain; color: #fff;
+    transition: 800ms;
+    transform:scale(1.1);
+}
+.Flow:hover{
+    background-image: url("https://imgs.search.brave.com/KtCa0ZtdQnByiDPY5AGPFL4mgGQF_GQQwsUt-jgw6yg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vdGhlY29u/c3RydWN0b3Iub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzAxL0Zsb29kLUly/cmlnYXRpb24uanBn/P3Jlc2l6ZT03MDAs/MzMyJnNzbD0x"); color: #fff;
+     background-size: cover;
+    transition: 800ms;
+transform:scale(1.1);}
+#Basin:hover{
+    background-image: url("https://imgs.search.brave.com/12FstvfcIr2d-4rwiH55MUDEN_9-FYvYEvbwba0wu3E/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/Z2VvLmZ1LWJlcmxp/bi5kZS9lbi92L2l3/cm0vSW1wbGVtZW50/YXRpb24vdGVjaG5p/Y2FsX21lYXN1cmVz/L2JpbGRlci9CaWxk/ZXItaXJyaWdhdGlv/bi9CYXNpbi1pcnJp/Z2F0aW9uLmpwZz93/aWR0aD01MDA"); color: #fff;
+    background-size:cover;
+    transition: 800ms;
+    transform:scale(1.1);
+}
+
+
+table #Crop{
+   background-color:green;
+   border: black solid;
+}
+
+table #Soil{
+    background-color: burlywood;
+    border: black solid;
+}table #Irrigation{
+    background-color:lightblue;
+    border: black solid;
+}table #Fertilizer{
+    background-color:lightgoldenrodyellow;
+    border: black solid;
+ }table #Temperature{
+    background-color:lightgrey;
+    border: black solid;
+ }table #Amount{
+    background-color:lightcoral;
+    border: black solid;
+ }
+
+ h2{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+ }
+ tr{
+    height: 80px;
+ }
+ body{
+    background-color: lavender;
+ }
+ 

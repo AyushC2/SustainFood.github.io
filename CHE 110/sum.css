@@ -1,0 +1,18 @@
+
+ div h2 li{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+ }
+ .sustainable:hover{
+    background-image: radial-gradient( circle 311px at 8.6% 27.9%,  rgba(62,147,252,0.57) 12.9%, rgba(239,183,192,0.44) 91.2% );
+ }
+ .food:hover{background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(176,229,208,1) 42%, rgba(92,202,238,0.41) 93.6% );
+ }
+ body{
+    background-color:lavender;
+    box-sizing: border-box;
+ }
+
+ h1{
+   text-align: center;
+ }
